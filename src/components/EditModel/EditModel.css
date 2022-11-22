@@ -1,0 +1,9 @@
+.editmodel{
+    position: absolute;
+    left: 59% !important;
+    top: 30% !important;
+    transform: translate(-50%,-50%);
+    width: 400;
+    background: white;
+    box-shadow: none !important;
+}
